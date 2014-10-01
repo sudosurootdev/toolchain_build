@@ -1,0 +1,24 @@
+[submodule "binutils-2.24-android"]
+	path = binutils-2.24-android
+	url = https://github.com/sudosurootdev/binutils
+[submodule "gcc-4.9.1-android"]
+	path = gcc-4.9.1-android
+	url = https://github.com/sudosurootdev/gcc
+[submodule "gmp-6.0.0-android"]
+	path = gmp-6.0.0-android
+	url = https://github.com/sudosurootdev/gmp
+[submodule "gdb-7.8-android"]
+	path = gdb-7.8-android
+	url = https://github.com/sudosurootdev/gdb
+[submodule "mpc-1.0.2-android"]
+	path = mpc-1.0.2-android
+	url = https://github.com/sudosurootdev/mpc
+[submodule "mpfr-3.1.2-android"]
+	path = mpfr-3.1.2-android
+	url = https://github.com/sudosurootdev/mpfr
+[submodule "newlib-2.1.0-android"]
+	path = newlib-2.1.0-android
+	url = https://github.com/sudosurootdev/newlib
+[submodule "python-2.7-android"]
+	path = python-2.7-android
+	url = https://github.com/sudosurootdev/cpython
